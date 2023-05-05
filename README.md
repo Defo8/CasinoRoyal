@@ -1,2 +1,2 @@
 # CasinoRoyal
-Casino simulation
+Tiny casino simulation
